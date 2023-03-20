@@ -22,7 +22,7 @@ class Lexer:
     def argument_lexer(self, argument):
         i = 0
         length = len(argument)
-        while(i < length):
+        while i < length:
             temp = ''
             if argument[i] in ['P', 'S', 'C', 'L', 'E', 'T', '*']:
                 if argument[i] == '*':

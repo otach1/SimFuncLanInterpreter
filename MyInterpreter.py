@@ -5,7 +5,7 @@ import turtle_CS
 import numpy as np
 
 
-class Interpreter():
+class Interpreter:
     def __init__(self, path):
         self.MidCode = MyParser.Parser(path).analyze()
         # 初始化画布
