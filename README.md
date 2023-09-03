@@ -1,2 +1,2 @@
-# SimFuncLanInterpreter
-XDU编译原理大三上机
+# Simle Function Langague Interpreter  
+## Work for Compiler Principles in XDU
