@@ -1,4 +1,4 @@
-# Simle Function Langague Interpreter  
+# Simple Function Languagee Interpreter  
 ## Work for Compiler Principles in XDU
 You can draw lines, curves, and circles by reading instructions from a text file. It involves building a lexer, scanner, parser, semantic analyzer, and executor. In addition to the required compilation and execution, it can also be interpreted.   
   
